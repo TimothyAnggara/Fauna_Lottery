@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fauna_Lottery/static/css/main.a948d519.css",
+    "main.js": "/Fauna_Lottery/static/js/main.f0d54f8f.js",
+    "index.html": "/Fauna_Lottery/index.html",
+    "main.a948d519.css.map": "/Fauna_Lottery/static/css/main.a948d519.css.map",
+    "main.f0d54f8f.js.map": "/Fauna_Lottery/static/js/main.f0d54f8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a948d519.css",
+    "static/js/main.f0d54f8f.js"
+  ]
+}
